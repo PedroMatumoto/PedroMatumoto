@@ -46,12 +46,6 @@
 
 <br clear="both">
 
-<img align="right" height="400" src="https://i.imgur.com/wGPFupy.jpg"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PedroMatumoto/PedroMatumoto/blob/output/snake.svg" alt="Snake animation" />
+<img align="right" height="400" src="https://i.imgur.com/rjacTE3.jpg"  />
 
 ###
