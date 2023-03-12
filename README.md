@@ -46,24 +46,12 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.imgur.com/wGPFupy.jpg"  />
+<img align="right" height="400" src="https://i.imgur.com/wGPFupy.jpg"  />
 
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/PedroMatumoto/PedroMatumoto/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/hjlhjrhs34qcb1iuxj78krmwk">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
