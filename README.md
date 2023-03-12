@@ -31,7 +31,7 @@
   <a href="ShinYu#5777" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Shinyu 5777&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="pedromatumoto@gmail.com" target="_blank">
+  <a href="mailto:pedromatumoto@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/pedromatumoto/" target="_blank">
