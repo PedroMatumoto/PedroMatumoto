@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img align="right" height="500" src="//imgur.com/R0sQoNu"  />
+<img align="center" height="500" src="https://i.imgur.com/sQFeQcs.jpg" />
 
 ###
