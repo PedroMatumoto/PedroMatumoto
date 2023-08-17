@@ -73,6 +73,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PedroMatumoto/PedroMatumoto/output/snake.svg" alt="Snake animation" />
 
 ###
