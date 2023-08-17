@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact **I enjoy challenging myself and learning new things.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
