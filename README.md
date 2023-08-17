@@ -1,4 +1,26 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi 👋, I'm Pedro Matumoto</h1>
+<h3 align="center">A Computer engineering student from Brazil</h3>
+
+- 🔭 I’m currently working on **system architecture**
+
+- 🌱 I’m currently learning **AWS and Python**
+
+- 👨‍💻 All of my projects are available at [pedromatumoto.github.io](pedromatumoto.github.io)
+
+- 📝 I regularly write articles on [https://twitter.com/shinyumatsu](https://twitter.com/shinyumatsu)
+
+- 💬 Ask me about **excel, Python and Java**
+
+- 📫 How to reach me **pedromatumoto@gmail.com**
+
+- 📄 Know about my experiences [https://pedromatumoto.github.io/assets/pdf/curriculo_2023_PHSM.pdf](https://pedromatumoto.github.io/assets/pdf/curriculo_2023_PHSM.pdf)
+
+- ⚡ Fun fact **I enjoy challenging myself and learning new things.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 ###
 
