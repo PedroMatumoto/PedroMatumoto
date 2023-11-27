@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS and Python**
 
-- 👨‍💻 All of my projects are available at [pedromatumoto.github.io](pedromatumoto.github.io)
+- 👨‍💻 All of my projects are available at [pedromatumoto.github.io](https://pedromatumoto.github.io)
 
 - 📝 I regularly write articles on [https://twitter.com/shinyumatsu](https://twitter.com/shinyumatsu)
 
