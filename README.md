@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Matumoto</h1>
 <h3 align="center">A Computer engineering student from Brazil</h3>
 
-- 🔭 I’m currently working on **system architecture**
+- 🔭 I’m currently working on **system architecture, RPA and WebScrapping**
 
 - 🌱 I’m currently learning **AWS and Python**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://twitter.com/shinyumatsu](https://twitter.com/shinyumatsu)
 
-- 💬 Ask me about **excel, Python and Java**
+- 💬 Ask me about **Excel, Python, Java and AWS**
 
 - 📫 How to reach me **pedromatumoto@gmail.com**
 
