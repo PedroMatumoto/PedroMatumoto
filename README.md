@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pedromatumoto@gmail.com**
 
-- 📄 Know about my experiences [https://pedromatumoto.github.io/assets/pdf/curriculo_2023_PHSM.pdf](https://pedromatumoto.github.io/assets/pdf/curriculo_2023_PHSM.pdf)
+- 📄 Know about my experiences [https://pedromatumoto.github.io/assets/pdf/curriculo_2023_PHSM.pdf](https://pedromatumoto.github.io/assets/pdf/curriculo_2024_PHSM.pdf)
 
 - ⚡ Fun fact **I enjoy challenging myself and learning new things.**
 
