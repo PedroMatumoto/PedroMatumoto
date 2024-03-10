@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://twitter.com/shinyumatsu](https://twitter.com/shinyumatsu)
 
-- 💬 Ask me about **Excel, Python, Java and AWS**
+- 💬 Ask me about **Excel, Python, Java , AWS and Google Cloud**
 
 - 📫 How to reach me **pedromatumoto@gmail.com**
 
