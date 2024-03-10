@@ -17,6 +17,10 @@
 
 - ⚡ Fun fact **I enjoy challenging myself and learning new things.**
 
+- Associate Cloud Engineer (Google Cloud)
+
+- AWS Pratictioner (AWS)
+
 <p align="left">
 </p>
 
