@@ -7,15 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://pedromatumoto.github.io](https://pedromatumoto.github.io)
 
-- 📝 I regularly write articles on [https://twitter.com/shinyumatsu](https://twitter.com/shinyumatsu)
-
 - 💬 Ask me about **AWS, Google Cloud and Python**
 
 - 📫 How to reach me **pedromatumoto@gmail.com**
 
 - 📄 Know about my experiences [https://pedromatumoto.github.io/assets/pdf/curriculo_2024_PHSM.pdf](https://pedromatumoto.github.io/assets/pdf/curriculo_2024_PHSM.pdf)
-
-- ⚡ Fun fact **I enjoy challenging myself and learning new things.**
 
 <h3 align="center">Certifications</h3>
 
