@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **system architecture, RPA and WebScrapping**
 
-- 🌱 I’m currently learning **AWS, Google Cloud and Python**
+- 🌱 I’m currently learning **AWS, Google Cloud and Infra**
 
 - 👨‍💻 All of my projects are available at [https://pedromatumoto.github.io](https://pedromatumoto.github.io)
 
