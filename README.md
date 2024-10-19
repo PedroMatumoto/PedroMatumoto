@@ -15,9 +15,9 @@
 
 <h3 align="center">Certifications</h3>
 
-- Associate Cloud Engineer (Google Cloud)
+- [Associate Cloud Engineer (Google Cloud)](https://www.credly.com/badges/cfcf2aa4-982b-426b-8f7d-63a2388ebc6d/public_url)
 
-- AWS Pratictioner (AWS)
+- [AWS Pratictioner (AWS)](https://www.credly.com/badges/9ca0b5f9-6f4d-46c1-889f-7b7d94d5a87e/public_url)
 
 <p align="left">
 </p>
