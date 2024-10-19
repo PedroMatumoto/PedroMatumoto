@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Matumoto</h1>
 <h3 align="center">A Computer engineering student from Brazil</h3>
 
-- 🔭 I’m currently working on **system architecture, RPA and WebScrapping**
+- 🔭 I’m currently working on **system architecture and data science**
 
-- 🌱 I’m currently learning **AWS, Google Cloud and Infra**
+- 🌱 I’m currently learning **AWS, Google Cloud, Azure and Infra**
 
 - 👨‍💻 All of my projects are available at [https://pedromatumoto.github.io](https://pedromatumoto.github.io)
 
