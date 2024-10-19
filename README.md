@@ -19,6 +19,8 @@
 
 - [AWS Pratictioner (AWS)](https://www.credly.com/badges/9ca0b5f9-6f4d-46c1-889f-7b7d94d5a87e/public_url)
 
+- [AZ-900 Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/pt-br/PedroMatumoto-9901/8DB5E10E5D4597FA?sharingId=18D2DEB419144A0A)
+
 <p align="left">
 </p>
 
