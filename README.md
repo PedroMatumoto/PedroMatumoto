@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [my site](https://pedromatumoto.github.io)
 - 💬 Ask me about **AWS, Google Cloud and Python**
 - 📫 How to reach me **pedromatumoto@gmail.com**
-- 📄 Know about my experiences [downloading my CV](https://pedromatumoto.github.io/assets/pdf/PHSM_2025.pdf)
+- 📄 Know about my experiences [downloading my CV](https://github.com/PedroMatumoto/PedroMatumoto.github.io/blob/1eb8680904796029017a887ca0d8065df7272f13/assets/pdf/PHSM_2025.pdf)
 
 <h3 align="center">Certifications</h3>
 
