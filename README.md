@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pedro Matumoto</h1>
 <h3 align="center">A Computer engineering student from Brazil</h3>
 
-- 🔭 I’m currently working on **system architecture, data science and Machine Learning**
-- 🌱 I’m currently learning **AWS, Google Cloud, Azure and Infra**
+- 🔭 I’m currently working on **[Mirai](https://github.com/IMT-AT-home), [tabrick](https://github.com/PedroMatumoto/tabrick), [omoidasu](https://github.com/PedroMatumoto/omoidasu) and [kora](https://github.com/PedroMatumoto/kora)**
+- 🌱 I’m currently learning **Cloud, System Design and Machine Learning**
+- 🎓 Preparing for **[Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer?hl=pt-br)**
 - 👨‍💻 All of my projects are available at [my site](https://pedromatumoto.github.io)
-- 💬 Ask me about **AWS, Google Cloud and Python**
+- 💬 Ask me about **AWS, Google Cloud, Python and System Design**
 - 📫 How to reach me **pedromatumoto@gmail.com**
 - 📄 Know about my experiences [downloading my CV](https://github.com/PedroMatumoto/PedroMatumoto.github.io/blob/fa3c304c5f8c45b070af194a29e20f663887b127/assets/PHSM_2025.pdf)
 
