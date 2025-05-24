@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Matumoto</h1>
-<h3 align="center">A Computer engineering student from Brazil</h3>
+<h3 align="center">Computer Engineer | Full-Stack, Cloud & AI</h3>
 
 - 🔭 I’m currently working on **[Mirai](https://github.com/IMT-AT-home), [tabrick](https://github.com/PedroMatumoto/tabrick), [omoidasu](https://github.com/PedroMatumoto/omoidasu) and [kora](https://github.com/PedroMatumoto/kora)**
 - 🌱 I’m currently learning **Cloud, System Design and Machine Learning**
