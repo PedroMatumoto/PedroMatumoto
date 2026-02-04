@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Pedro Matumoto</h1>
   <h3>Computer Engineer | Full-Stack, Cloud & AI</h3>
-  
+  <img src="https://github.com/user-attachments/assets/c731089a-405d-40fc-a783-f2aa181b517a" width="220" />
   <p>
     Engenheiro de Computação com foco em arquitetura de software, Cloud Computing e Inteligência Artificial. 
     Atualmente desenvolvendo projetos em <b>System Design</b> e <b>Machine Learning</b>.
@@ -66,3 +66,4 @@
   <img src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino&logoColor=00979D" height="30" alt="arduino logo" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A" height="30" alt="raspberry pi logo" />
 </div>
+
