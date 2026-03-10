@@ -17,7 +17,7 @@
 <br />
 
 ### 🛠 Projects & Focus
-- **Current Projects:** [Mirai](https://github.com/IMT-AT-home), [tabrick](https://github.com/PedroMatumoto/tabrick), [omoidasu](https://github.com/PedroMatumoto/omoidasu), [kora](https://github.com/PedroMatumoto/kora)
+- **Current Projects:** [Mirai](https://github.com/IMT-AT-home), [Shumi](https://github.com/PedroMatumoto/shumi)
 - **Interests:** Cloud Architecture, System Design, Machine Learning, Web Automation
 - **Goal:** [Machine Learning Engineer Certification](https://cloud.google.com/learn/certification/machine-learning-engineer?hl=pt-br)
 
