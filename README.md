@@ -2,9 +2,9 @@
   <h1>Pedro Matumoto</h1>
   <h3>Computer Engineer | Full-Stack, Cloud & AI</h3>
   <img src="https://github.com/user-attachments/assets/c731089a-405d-40fc-a783-f2aa181b517a" width="220" />
-  <p>
-    Engenheiro de Computação com foco em arquitetura de software, Cloud Computing e Inteligência Artificial. 
-    Atualmente desenvolvendo projetos em <b>System Design</b> e <b>Machine Learning</b>.
+   <p>
+    Computer Engineer (IMT) who <i>really</i> loves robotics. When I'm away from the keyboard, you'll probably find me in a near mountain or at a car event. 
+    Currently working with Cloud, AI, and DevOps. I'm actively learning <b>System Design</b>, pushing the limits of what AI can do, and I'm always down for crazy ideas. Let's build something! 
   </p>
 
   <p>
@@ -16,9 +16,13 @@
 
 <br />
 
+### 💼 Experience & Teaching
+- **Instructor:** Teaching the AI at Instituto Mauá de Tecnologia (IMT).
+- **Software Engineer:** Focused on Cloud computing, AI integrations, and System Architecture.
+
 ### 🛠 Projects & Focus
 - **Current Projects:** [Mirai](https://github.com/IMT-AT-home), [Shumi](https://github.com/PedroMatumoto/shumi)
-- **Interests:** Cloud Architecture, System Design, Machine Learning, Web Automation
+- **Interests:** Cloud Architecture, System Design, Machine Learning and Robotics
 - **Goal:** [Machine Learning Engineer Certification](https://cloud.google.com/learn/certification/machine-learning-engineer?hl=pt-br)
 
 ### 🏆 Certifications
@@ -34,7 +38,6 @@
   <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=3178C6" height="30" alt="ts logo" />
   <img src="https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" height="30" alt="tailwind logo" />
   <img src="https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp&logoColor=239120" height="30" alt="C# logo" />
-  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=3178C6" height="30" alt="ts logo" />
   <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=3776AB" height="30" alt="python logo" />
   <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=092E20" height="30" alt="django logo" />
   <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=009688" height="30" alt="fastapi logo" />
@@ -66,4 +69,3 @@
   <img src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino&logoColor=00979D" height="30" alt="arduino logo" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A" height="30" alt="raspberry pi logo" />
 </div>
-
