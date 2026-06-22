@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Pedro Matumoto</h1>
   <h3>Computer Engineer | Full-Stack, Cloud & AI</h3>
-  <img src="https://github.com/user-attachments/assets/c731089a-405d-40fc-a783-f2aa181b517a" width="220" />
    <p>
     Computer Engineer (IMT) who <i>really</i> loves robotics. When I'm away from the keyboard, you'll probably find me in a near mountain or at a car event. 
     Currently working with Cloud, AI, and DevOps. I'm actively learning <b>System Design</b>, pushing the limits of what AI can do, and I'm always down for crazy ideas. Let's build something! 
@@ -69,3 +68,7 @@
   <img src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino&logoColor=00979D" height="30" alt="arduino logo" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A" height="30" alt="raspberry pi logo" />
 </div>
+
+---
+
+  <img src="https://github.com/user-attachments/assets/2563b9a8-ba48-4e99-a272-a728926bced8" />
