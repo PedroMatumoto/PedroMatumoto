@@ -8,7 +8,7 @@
 
   <p>
     <a href="https://pedromatumoto.github.io">🌐 Portfolio</a> •
-    <a href="https://github.com/PedroMatumoto/PedroMatumoto.github.io/blob/fa3c304c5f8c45b070af194a29e20f663887b127/assets/PHSM_2025.pdf">📄 Resume / CV</a> •
+    <a href="https://github.com/user-attachments/files/30159175/Pedro_Matumoto_Resume.pdf">📄 Resume / CV</a> •
     <a href="mailto:pedromatumoto@gmail.com">✉️ Contact</a>
   </p>
 </div>
