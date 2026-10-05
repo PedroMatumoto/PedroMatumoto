@@ -3,7 +3,7 @@
   <h3>Computer Engineer | Full-Stack, Cloud & AI</h3>
    <p>
     Computer Engineer (IMT) who <i>really</i> loves robotics. When I'm away from the keyboard, you'll probably find me in a near mountain or at a car event. 
-    Currently working with Cloud, AI, and DevOps. I'm actively learning <b>System Design</b>, pushing the limits of what AI can do, and I'm always down for crazy ideas. Let's build something! 
+    Currently working with Cloud, AI, and DevOps, and about to start my <b>M.S. in Computer Science (OMSCS) at Georgia Tech</b> with a specialization in <b>Computational Perception and Robotics</b>. I'm actively learning <b>System Design</b>, pushing the limits of what AI can do, and I'm always down for crazy ideas. Let's build something! 
   </p>
 
   <p>
@@ -19,10 +19,16 @@
 - **Instructor:** Teaching the AI at Instituto Mauá de Tecnologia (IMT).
 - **Software Engineer:** Focused on Cloud computing, AI integrations, and System Architecture.
 
+### 🎓 Education
+- **Georgia Tech (OMSCS):** M.S. in Computer Science, Specialization in Computational Perception and Robotics *(incoming)*
+- **Instituto Mauá de Tecnologia (IMT):** B.Sc. in Computer Engineering
+
 ### 🛠 Projects & Focus
 - **Current Projects:** [Mirai](https://github.com/IMT-AT-home), [Shumi](https://github.com/PedroMatumoto/shumi)
 - **Interests:** Cloud Architecture, System Design, Machine Learning and Robotics
-- **Goal:** [Machine Learning Engineer Certification](https://cloud.google.com/learn/certification/machine-learning-engineer?hl=pt-br)
+- **Goals:** 
+  - Complete the OMSCS with a focus on Computational Perception and Robotics
+  - [Machine Learning Engineer Certification](https://cloud.google.com/learn/certification/machine-learning-engineer?hl=pt-br)
 
 ### 🏆 Certifications
 - **Google Cloud:** [Associate Cloud Engineer](https://www.credly.com/badges/cfcf2aa4-982b-426b-8f7d-63a2388ebc6d/public_url)
